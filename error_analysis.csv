@@ -1,0 +1,52 @@
+Dirty Input,Ground Truth,Model Output,Prompt Used
+Nm: virgil's | Ad: 152 w. 44th st. | Ci: new york,"Name: virgil's real bbq, Addr: 152 w. 44th st., City: new york city",Name: Virgil's | Address: 152 W. 44th St. | City: New York,"Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: sig of the dove | Ad: 1110 third ave. | Ci: new york city,"Name: sign of the dove, Addr: 1110 3rd ave. at 65th st., City: new york","Name: Sign of the Dove
+Address: 1110 Third Ave.
+City: New York City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: ritz-carlton restaurant and dining room | Ad: 600 stockton st.E9 | Ci: san francisco,"Name: ritz-carlton dining room (san francisco), Addr: 600 stockton st., City: san francisco","Nm: Ritz-Carlton Restaurant and Dining Room 
+Ad: 600 Stockton St. E9 
+Ci: San Francisco","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: baccanalia | Ad: 3125 piedmont rd. | Ci: atlanta,"Name: bacchanalia, Addr: 3125 piedmont rd.  near peachtree rd., City: atlanta","Name: Baccanalia
+Address: 3125 Piedmont Rd.
+City: Atlanta","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: citrus | Ad: 6703 melrose ave. | Ci: los angeles,"Name: citrus, Addr: 6703 melrose ave., City: los angeles",Nm: Citrus | Ad: 6703 Melrose Ave. | Ci: Los Angeles,"Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: unce nick's | Ad: 747 ninth av.P5 | Ci: new york city,"Name: uncle nick's, Addr: 747 9th ave.  between 50th and 51st sts., City: new york","Name: Uncle Nick's
+Address: 747 Ninth Avenue
+City: New York City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: pago | Ad: 1114 HORN AVE. | Ci: los angeles,"Name: spago (los angeles), Addr: 8795 sunset blvd., City: w. hollywood","Name: Pago
+Address: 1114 Horn Ave.
+City: Los Angeles","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: gramercy tavern | Ad: 42 E. 20TH ST. | Ci: new york city,"Name: gramercy tavern, Addr: 42 e. 20th st.  between park ave. s and broadway, City: new york","Name: Gramercy Tavern
+Address: 42 E. 20th St.
+City: New York City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: LA GRTTA | Ad: 2637 peachtree rd. ne | Ci: atlanta,"Name: la grotta, Addr: 2637 peachtree rd.  peachtree house condominium, City: atlanta","Name: La Grotta
+Address: 2637 Peachtree Rd. NE
+City: Atlanta","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: l'orangerie | Ad: 903 n. la cieneg blvd. | Ci: w. hollywood,"Name: l'orangerie, Addr: 903 n. la cienega blvd., City: los angeles","Name: L'Orangerie
+Address: 903 N. La Cienega Blvd.
+City: West Hollywood","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: yujen kang's | Ad: 67 n. raymond ave. | Ci: pasadena,"Name: yujean kang's gourmet chinese cuisine, Addr: 67 n. raymond ave., City: los angeles","Name: Yujen Kang's
+Address: 67 N. Raymond Ave.
+City: Pasadena","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: VIRGIL'S | Ad: 152 w. 44th s. | Ci: new york,"Name: virgil's real bbq, Addr: 152 w. 44th st., City: new york city",Name: VIRGIL'S | Address: 152 W. 44th St. | City: New York,"Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: UREOLE | Ad: 34 e 61st st.71 | Ci: new york city,"Name: aureole, Addr: 34 e. 61st st., City: new york","Name: Ureole
+Address: 34 E 61st St.
+City: New York City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: bacchanalia | Ad: 3125piedmont rd. | Ci: atlanta,"Name: bacchanalia, Addr: 3125 piedmont rd.  near peachtree rd., City: atlanta","Name: Bacchanalia
+Address: 3125 Piedmont Rd.
+City: Atlanta","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: viril'sVO | Ad: 152 . 44th st. | Ci: new york,"Name: virgil's real bbq, Addr: 152 w. 44th st., City: new york city","Name: Viril'sVO
+Address: 152 44th St.
+City: New York","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: georgia grille | Ad: 2290 peachtree d.UI | Ci: atlanta,"Name: georgia grille, Addr: 2290 peachtree rd.  peachtree square shopping center, City: atlanta","Name: Georgia Grille
+Address: 2290 Peachtree Rd NE
+City: Atlanta","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: pnot bistro7U | Ad: 12969 VENTURA BLVD. | Ci: studio city,"Name: pinot bistro, Addr: 12969 ventura blvd., City: los angeles","Name: Pinot Bistro
+Address: 12969 Ventura Blvd.
+City: Studio City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: mfune | Ad: 177 POST ST. | Ci: san francisco,"Name: mifune japan center  kintetsu building, Addr: 1737 post st., City: san francisco","Name: Mifune
+Address: 177 Post St.
+City: San Francisco","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
+Nm: oceanaRR | Ad: 5 e. 54th st.EE | Ci: new york city,"Name: oceana, Addr: 55 e. 54th st., City: new york","Name: Oceana
+Address: 5 East 54th Street
+City: New York City","Normalize restaurant records to correct OCR errors and inconsistencies, ensuring clarity and reliability."
